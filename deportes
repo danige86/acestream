@@ -200,3 +200,12 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2", Eurosport 2
 acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Varios" tvg-id="Tenis Channel", Tenis Channel
+acestream://16089ab3f31a2756cf2ba6d507ff367cce14df83
+
+#EXTINF:-1 tvg-logo="https://comunicacion.movistarplus.es/wp-content/uploads/2022/01/Golf-por-M_Color-Negativo_RGB.jpg" group-title="Varios" tvg-id="Movistar Golf", Movistar Golf
+acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/acgKvKseBUbxPxrSrLtEOeG5jodmbl6qP2PGBEDM5JXP1HBhu18ht3mGB1IxzhVz1w" group-title="Varios" tvg-id="Mundo Toro", Mundo Toro
+acestream://f763ab71f6f646e6c993f37e237be97baf2143ef
